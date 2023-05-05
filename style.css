@@ -1,0 +1,26 @@
+h2{
+    text-align: center;
+    background-color: coral;
+    padding:10px 0 10px 0;
+}
+.cal{
+    width: 400px;
+    height: 600px;
+    background-color:burlywood;
+    margin-left: 400px;
+}
+#screen{
+    width: 80%;
+    margin-left: 38px;
+    height: 48px;
+    margin-top: 30px;
+    pointer-events: none;
+}
+.btn{
+    width: 45px;
+    height: 45px;
+    margin-left: 42px;
+    margin-top: 30px;
+    background-color: aquamarine;
+    font-weight: 700;
+}
